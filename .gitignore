@@ -1,0 +1,42 @@
+# ============================================================================
+# UNREAL ENGINE 5 OFFICIAL GITIGNORE
+# Mencegah artefak build, cache binary raksasa, dan konfigurasi lokal ter-commit
+# ============================================================================
+
+# Binaries & Compiled modules
+Binaries/*
+Plugins/*/Binaries/*
+
+# Intermediate & Build Artefacts
+Intermediate/*
+Plugins/*/Intermediate/*
+DerivedDataCache/*
+Saved/*
+
+# Visual Studio / VS Code / Rider IDE junk
+.vs/
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# macOS / Linux system junk
+.DS_Store
+*.swp
+*.bak
+*~
+.directory
+
+# Unreal Build Tool & Crash reports
+CrashReportClient/
+*.log
+*.tmp
+*.pdb
