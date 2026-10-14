@@ -1,10 +1,10 @@
-# Biohazard: Eclipse of Spencer Lab (Unreal Engine 5 Edition)
+# Eclipse Protocol: Complex Zero (Unreal Engine 5 Edition)
 
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.4-blue?logo=unrealengine)](https://www.unrealengine.com/)
 [![Architecture](https://img.shields.io/badge/Architecture-Clean%20%26%20Component%20Driven-success)](https://docs.unrealengine.com/5.4/en-US/gameplay-architecture-in-unreal-engine/)
 [![Target OS](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-brightgreen)](https://www.kernel.org/)
 
-Proyek game *Survival Horror FPS* bertema *Resident Evil* yang dibangun menggunakan **Clean Architecture & Component-Driven Design** pada **Unreal Engine 5 (C++)**.
+Proyek game *Survival Horror FPS* orisinal yang dibangun menggunakan **Clean Architecture & Component-Driven Design** pada **Unreal Engine 5 (C++)**.
 
 ---
 
